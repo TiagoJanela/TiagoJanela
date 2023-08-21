@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TiagoJanela
-- 👀 I’m interested in new ways to represent molecules
-- 🌱 I’m currently learning Chemoinformatics and Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Chemoinformatics and Data Science
 
 <!---
 TiagoJanela/TiagoJanela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
